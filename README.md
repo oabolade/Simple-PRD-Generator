@@ -1,2 +1,2 @@
-###Simple-PRD-Generator###:
+Simple-PRD-Generator:
 Here's a simple Product Requirements Document (PRD) generator that allows Product teams to quickly generate Product Requirements and share with key partners and stakeholders. This is a simple web app that takes input from a user about the product concept and ideas and then creates a comprehensive PRD explaining the problem, solution, product features, success metrics, MVP and key deliveables using AI. It is a 'simple" design because there is no backend or database integrations. It is integrated with Make.com webhook which handles the data request/response from the PRD generator and Open AI for data enrichment of the PRD document.
